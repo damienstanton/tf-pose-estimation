@@ -4,6 +4,7 @@ scipy
 tqdm
 requests
 fire
-ast
+opencv-python
+tensorflow
 dill
 git+https://github.com/ppwwyyxx/tensorpack.git
